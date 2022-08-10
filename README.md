@@ -23,3 +23,16 @@ The HingBERT-LID model is shared <a href='https://huggingface.co/l3cube-pune/hin
 ## License
 
 L3Cube-HingCorpus, and L3Cube-HingLID is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+## Citing
+```
+@article{nayak2022l3cube,
+  title={L3Cube-HingCorpus and HingBERT: A Code Mixed Hindi-English Dataset and BERT Language Models},
+  author={Nayak, Ravindra and Joshi, Raviraj},
+  journal={arXiv preprint arXiv:2204.08398},
+  year={2022}
+}
+```
+
+This project is co-ordinated and mentored by <a href='https://www.linkedin.com/in/ravirajoshi/'> Raviraj Joshi </a> under L3Cube Pune. For any queries contact ravirajoshi@gmail.com .
+
