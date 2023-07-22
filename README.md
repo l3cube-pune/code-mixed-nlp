@@ -20,6 +20,12 @@ The full HingCorpus(roman) is shared <a href='https://drive.google.com/file/d/1s
 The L3Cube-HingLID is the Hindi-English code-mixed language identification dataset. It consists of 31756, 6420, and 6279 train, test, and validation samples respectively. The dataset is shared in the folder L3Cube-HingLID/.
 The HingBERT-LID model is shared <a href='https://huggingface.co/l3cube-pune/hing-bert-lid'> here </a>.
 
+# L3Cube-MeCorpus
+L3Cube-MeCorpus is a first-of-its-kind large code-mixed Marathi-English (Mr-En) corpus with 10 million social media sentences released in <a href='https://arxiv.org/abs/2306.14030'> paper </a>. The dataset details and code-mixed MeBERT models are shared in the <a href="https://github.com/l3cube-pune/MarathiNLP"> MarathiNLP </a> repo. 
+
+## L3Cube-MeSent, MeHate, and MeLID
+MeSent, MeHate, and MeLID are the first code-mixed Marathi-English Sentiment Analysis, Hate Speech Identification, and Language Identification datasets respectively released in <a href='https://arxiv.org/abs/2306.14030'> paper </a>. The datasets are shared <a href="https://github.com/l3cube-pune/MarathiNLP/tree/main/MeEval"> here </a>.
+
 ## License
 
 L3Cube-HingCorpus, and L3Cube-HingLID is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
